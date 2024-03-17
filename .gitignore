@@ -45,5 +45,5 @@ yarn-error.*
 
 expo-env.d.ts
 supabase
-
+google-services.json
 # @end expo-cli
